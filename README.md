@@ -6,9 +6,10 @@
 
 <br>
 <pre>
-    🔭 I’m currently working on **Python for Data Analytics** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
-    🌱 I’m currently learning **Data Analytic** <img src="./assets/learner.gif" width="45">
-    📫 How to reach me **seameychanntha26@gmail.com** <img src="./assets/bye.gif" width="30">
+     🔭 I’m currently working on <strong>Python for Data Analytics</strong> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+     🌱 I’m currently learning <strong>Data Analytic</strong> <img src="./assets/learner.gif" width="45"> 
+     📫 How to reach me <strong>seameychanntha26@gmail.com</strong> <img src="./assets/bye.gif" width="30">
+    <br>
 </pre>
 <br><br>
 <!-- <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> -->
